@@ -1,4 +1,4 @@
 # Pull Shark Demo
 
-Ini adalah repo percobaan untuk mencoba Pull Request.  
-Semoga besok lebih baik dan kita senantiasa tawakal
+Ini adalah repo percobaan untuk mencoba Pull Request. 
+Hanya tujuan belajar
